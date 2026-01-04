@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Blooming！",
+  "base_artist": "佐々木 李子",
+  "createdAt": "2026-01-04T17:03:25.371984Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Its All Blooming Now Mt. Heart Attack",
+      "artist": "Liars",
+      "has_synced": false,
+      "path": "select/01_Its_All_Blooming_Now_Mt._Heart_Attack_Liars.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lo How A Rose E'er Blooming",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/02_Lo_How_A_Rose_E'er_Blooming_Sting.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blooming",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/03_Blooming_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blooming 18",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/04_Blooming_18_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lo, How a Rose E’er Blooming",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/05_Lo,_How_a_Rose_E’er_Blooming_Sting.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lo, How a Rose E're Blooming",
+      "artist": "Linda Ronstadt",
+      "has_synced": true,
+      "path": "select/06_Lo,_How_a_Rose_E're_Blooming_Linda_Ronstadt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lo! How a Rose E're Blooming",
+      "artist": "Linda Ronstadt",
+      "has_synced": true,
+      "path": "select/07_Lo!_How_a_Rose_E're_Blooming_Linda_Ronstadt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lo, How a Rose E'er Blooming",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/08_Lo,_How_a_Rose_E'er_Blooming_Sting.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Are The Roses Not Blooming?",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/09_Are_The_Roses_Not_Blooming_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blooming Flower",
+      "artist": "Chanté Moore",
+      "has_synced": false,
+      "path": "select/10_Blooming_Flower_Chanté_Moore.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lo How a Rose E'er Blooming",
+      "artist": "Devan",
+      "has_synced": false,
+      "path": "select/11_Lo_How_a_Rose_E'er_Blooming_Devan.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lo! How A Rose E'er Blooming (1)",
+      "artist": "Sufjan Stevens",
+      "has_synced": true,
+      "path": "select/12_Lo!_How_A_Rose_E'er_Blooming_(1)_Sufjan_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blooming Lily",
+      "artist": "澤村・スペンサー・英梨々(CV.大西沙織)",
+      "has_synced": true,
+      "path": "select/13_Blooming_Lily_澤村・スペンサー・英梨々(CV.大西沙織).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blooming Day",
+      "artist": "EXO-CBX",
+      "has_synced": true,
+      "path": "select/14_Blooming_Day_EXO-CBX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blooming!",
+      "artist": "佐々木李子",
+      "has_synced": false,
+      "path": "select/pl_01_Blooming!_佐々木李子.txt"
+    }
+  ]
+}
