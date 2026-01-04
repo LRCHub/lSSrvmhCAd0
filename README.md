@@ -1,0 +1,45 @@
+# 佐々木 李子 – Blooming！
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Another lazy day just like any day
+Just hanging with my friends, always joking
+Sometimes it's kinda fun, sometimes I get bored
+It's not so bad though
+I can't help but long for more
+想像じゃ足りないくらいのImageがBreak out!
+夢見たいのさ Can I believe?
+Blooming! Just wake it up right now
+突然脳天を突き刺すFantasy
+Dream it! Don't dream it in the night
+逃さないでPrecious one
+Growing! Let's hurry up right now
+無限大の未来開けるMystery
+Dream it! Don't dream it in the night
+まだ眠ってる夢を Blooming!
+Which way is the right way, go on or go back?
+What does the future hold? No one knows
+Sometimes it's kinda tough, sometimes I get down
+But I believe I can find something new and fun
+絶対のAnswerがあったら冒険じゃないや
+迷いを捨てて I'll go forward!
+Blooming! Just go ahead this way
+太陽より指差す方がDestiny
+Feel it! Don't hesitate your step
+その一歩がFrontier
+Growing! Let's open up the door
+行く手阻む壁の向こうCan't you see?
+Feel it! Don't hesitate your step
+まだ見えぬ未来を Blooming!
+想像じゃ足りないくらいの現実がCome out!
+夢見てるのさ Now I believe!
+Blooming! めくるめいて
+心揺らす新たなる世界へ
+Dream it! Don't dream it in the night
+逃さないでPrecious one
+Growing! Let's hurry up right now
+無限大の未来開けるMystery
+Dream it! Don't dream it in the night
+まだ眠ってる夢を Bloom it now!
+```
